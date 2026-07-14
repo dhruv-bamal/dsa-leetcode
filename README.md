@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -61,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -89,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -116,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
