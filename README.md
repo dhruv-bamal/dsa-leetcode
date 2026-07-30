@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -178,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
