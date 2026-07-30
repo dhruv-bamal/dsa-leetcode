@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0344-reverse-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
