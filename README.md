@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
