@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union-Find
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0704-binary-search) |
