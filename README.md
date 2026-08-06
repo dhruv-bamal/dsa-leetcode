@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
