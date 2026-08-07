@@ -2,16 +2,10 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n = nums.size();
-        if(n == 1) return nums[0];
-        unordered_map<int, int> mp;
-        for(auto &it: nums) {
-            mp[it]++;
+        int xorr = 0;
+        for(int i = 0; i < n; i++) {
+            xorr = xorr ^ nums[i];
         }
-        for(auto &it: mp) {
-            if(it.second == 1) {
-                return it.first;
-            }
-        }
-        return -1;
+        return xorr;
     }
 };
