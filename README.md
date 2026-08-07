@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
