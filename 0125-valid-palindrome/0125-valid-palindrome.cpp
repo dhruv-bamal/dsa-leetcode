@@ -1,30 +1,18 @@
 class Solution {
 public:
-
-    string removeUnvalid(string s) {
-        for(int i = 0; i < s.length(); i++) {
-            if(!isalnum(s[i])) {
-                s.erase(i, 1);
-                i--;
-            } else {
-                s[i] = tolower(s[i]);
+    bool isPalindrome(string s) {
+        int n = s.length();
+        if(n == 0) return true;
+        string str = "";
+        for(int i = 0; i < n; i++) {
+            char c = tolower(s[i]);
+            if(isalnum(c)) {
+                str += c;
             }
         }
-        return s;
-    }
-
-    bool palindrome(string &s, int left, int right) {
-        if(left >= right) {
-            return true;
-        } else if(s[left] != s[right]) {
-            return false;
-        }
-        return palindrome(s, left + 1, right - 1);
-    }
-
-    bool isPalindrome(string s) {
-        string str = removeUnvalid(s);
-        bool ans = palindrome(str, 0, str.length() - 1);
-        return ans;
+        string rev = str;
+        reverse(rev.begin(), rev.end());
+        if(rev == str) return true;
+        else return false;
     }
 };
