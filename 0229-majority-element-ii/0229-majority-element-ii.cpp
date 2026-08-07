@@ -6,13 +6,12 @@ public:
         for(auto &it: nums) {
             mp[it]++;
         }
-        int req = n/3;
-        vector<int> ans;
+        vector<int> res;
         for(auto &it: mp) {
-            if(it.second > req) {
-                ans.push_back(it.first);
+            if(it.second > n/3) {
+                res.push_back(it.first);
             }
         }
-        return ans;
+        return res;
     }
 };
