@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0076-minimum-window-substring) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0118-pascals-triangle) |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0796-rotate-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
