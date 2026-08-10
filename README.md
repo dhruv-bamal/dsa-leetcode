@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
