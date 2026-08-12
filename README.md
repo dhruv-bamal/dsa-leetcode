@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0125-valid-palindrome) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
