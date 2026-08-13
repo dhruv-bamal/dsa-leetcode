@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1929-concatenation-of-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3731-find-missing-elements) |
@@ -377,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 <!---LeetCode Topics End-->
