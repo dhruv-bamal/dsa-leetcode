@@ -9,7 +9,7 @@ public:
             mp[key].push_back(s);
         }
         for(auto &it : mp) {
-            res.push_back(mp[it]);
+            res.push_back(it.second);
         }
         return res;
     }
