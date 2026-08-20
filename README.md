@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0706-design-hashmap) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3731-find-missing-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## String
