@@ -6,7 +6,7 @@ public:
             if(nums[r] == 0) {
                 zeroCount++;
             }
-            while(zeroCount > k) {
+            if(zeroCount > k) {
                 if(nums[l] == 0) {
                     zeroCount--;
                 }
