@@ -2,40 +2,40 @@ class Solution {
 public:
     vector<int> merge(vector<int>& left, vector<int>& right) {
         vector<int> res;
-        int i = 0, j = 0;
-        while (i < left.size() && j < right.size()) {
-            if (left[i] <= right[j]) {
-                res.push_back(left[i]);
-                i++;
+        int l = 0, r = 0;
+        while(l < left.size() && r < right.size()) {
+            if(left[l] <= right[r]) {
+                res.push_back(left[l]);
+                l++;
             } else {
-                res.push_back(right[j]);
-                j++;
+                res.push_back(right[r]);
+                r++;
             }
         }
-        while (i < left.size()) {
-            res.push_back(left[i]);
-            i++;
+        while(l < left.size()) {
+            res.push_back(left[l]);
+            l++;
         }
-        while (j < right.size()) {
-            res.push_back(right[j]);
-            j++;
+        while(r < right.size()) {
+            res.push_back(right[r]);
+            r++;
         }
         return res;
     }
 
     vector<int> mergeSort(vector<int>& nums, int low, int high) {
-        if (low == high) {
+        if(low == high) {
             return {nums[low]};
         }
         int mid = low + (high - low) / 2;
         vector<int> left = mergeSort(nums, low, mid);
         vector<int> right = mergeSort(nums, mid + 1, high);
-        vector<int> merged = merge(left, right);
-        return merged;
+        vector<int> res = merge(left, right);
+        return res;
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        if (nums.size() == 0) {
+        if(nums.empty()) {
             return {};
         }
         return mergeSort(nums, 0, nums.size() - 1);
