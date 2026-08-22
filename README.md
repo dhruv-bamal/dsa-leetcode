@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
