@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
