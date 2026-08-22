@@ -4,7 +4,7 @@ public:
         int l = 0, r = 0, sum = 0, res = INT_MAX;
         while(r < nums.size()) {
             sum += nums[r];
-            while(sum > target) {
+            while(sum >= target) {
                 res = min(res, r - l + 1);
                 sum -= nums[l];
                 l++;
