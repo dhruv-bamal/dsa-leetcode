@@ -2,41 +2,31 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         int m = s.length(), n = t.length();
-        if (n == 0)
+        if (m < n)
             return "";
-
-        unordered_map<char, int> countT, window;
-        for (auto& it : t) {
-            countT[it]++;
+        unordered_map<char, int> hash(256);
+        for (char& c : t) {
+            hash[c]++;
         }
-
-        int have = 0, need = countT.size();
-        pair<int, int> res = {-1, -1};
-        int resLen = INT_MAX;
-        int l = 0;
-
-        for (int r = 0; r < m; r++) {
-            char c = s[r];
-            window[c]++;
-
-            if (countT.find(c) != countT.end() && window[c] == countT[c]) {
-                have++;
+        int l = 0, r = 0, count = 0, sIndex = -1, minLen = INT_MAX;
+        while(r < m) {
+            if(hash[s[r]] > 0) {
+                count++;
             }
-
-            while (have == need) {
-                if ((r - l + 1) < resLen) {
-                    resLen = r - l + 1;
-                    res = {l, r};
+            hash[s[r]]--;
+            while(count == n) {
+                if(r - l + 1 < minLen) {
+                    minLen = r - l + 1;
+                    sIndex = l;
                 }
-
-                window[s[l]]--;
-                if (countT.find(s[l]) != countT.end() &&
-                    window[s[l]] < countT[s[l]]) {
-                    have--;
+                hash[s[l]]++;
+                if(hash[s[l]] > 0) {
+                    count--;
                 }
                 l++;
             }
+            r++;
         }
-        return resLen == INT_MAX ? "" : s.substr(res.first, resLen);
+        return sIndex == -1 ? "" : s.substr(sIndex, minLen);
     }
 };
