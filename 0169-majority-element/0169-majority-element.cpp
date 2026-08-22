@@ -1,15 +1,15 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> freq;
+        unordered_map<int, int> hash;
         for(auto &it: nums) {
-            freq[it]++;
+            hash[it]++;
         }
-        for(auto &it: freq) {
+        for(auto &it: hash) {
             if(it.second > nums.size() / 2) {
                 return it.first;
             }
         }
-        return 0;
+        return -1;
     }
 };
