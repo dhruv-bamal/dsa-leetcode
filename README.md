@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
