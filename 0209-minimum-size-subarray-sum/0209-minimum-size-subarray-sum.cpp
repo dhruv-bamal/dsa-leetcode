@@ -11,6 +11,6 @@ public:
             }
             high++;
         }
-        return res;
+        return res == INT_MAX ? 0 : res;
     }
 };
