@@ -1,18 +1,18 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n = s.length();
-        unordered_map<char, int> count;
-        int ans = 0, left = 0, maxi = 0;
-        for (int right = 0; right < n; right++) {
-            count[s[right]]++;
-            maxi = max(maxi, count[s[right]]);
-            while ((right - left + 1) - maxi > k) {
-                count[s[left]]--;
-                left++;
+        unordered_map<char, int> hash;
+        int res = INT_MIN, low = 0, high = 0, maxi = 0;
+        while(high < s.length()) {
+            hash[s[high]]++;
+            maxi = max(maxi, hash[s[high]]);
+            while((high - low + 1) - maxi > k) {
+                hash[s[low]]--;
+                low++;
             }
-            ans = max(ans, right - left + 1);
+            res = max(res, high - low + 1);
+            high++;
         }
-        return ans;
+        return res;
     }
 };
