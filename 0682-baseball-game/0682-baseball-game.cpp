@@ -3,22 +3,22 @@ public:
     int calPoints(vector<string>& operations) {
         stack<int> stack;
         for (int i = 0; i < operations.size(); i++) {
-            if (operations[i] == "C") {
+            if (operations[i] == "+") {
+                int first = stack.top();
                 stack.pop();
+                int second = stack.top();
+                stack.push(first);
+                stack.push(first + second);
             } else if (operations[i] == "D") {
                 stack.push(2 * stack.top());
-            } else if (operations[i] == "+") {
-                int temp = stack.top();
+            } else if (operations[i] == "C") {
                 stack.pop();
-                int sum = temp + stack.top();
-                stack.push(temp);
-                stack.push(sum);
             } else {
                 stack.push(stoi(operations[i]));
             }
         }
         int res = 0;
-        while (!stack.empty()) {
+        while (stack.size() > 0) {
             res += stack.top();
             stack.pop();
         }
