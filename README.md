@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
