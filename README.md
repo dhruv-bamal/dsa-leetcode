@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1903-largest-odd-number-in-string) |
