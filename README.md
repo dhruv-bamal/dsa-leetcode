@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
