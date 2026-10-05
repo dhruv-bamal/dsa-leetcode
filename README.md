@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
