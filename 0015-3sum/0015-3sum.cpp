@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        if (nums.size() <= 2)
+            return {};
         sort(nums.begin(), nums.end());
         vector<vector<int>> res;
         for (int i = 0; i < nums.size() - 2; i++) {
@@ -17,13 +19,13 @@ public:
                     while (left < right && nums[left] == nums[left - 1]) {
                         left++;
                     }
-                    while (left < right && nums[right] == nums[right + 1]) {
+                    while (right > left && nums[right] == nums[right + 1]) {
                         right--;
                     }
-                } else if (sum > 0) {
-                    right--;
-                } else {
+                } else if (sum < 0) {
                     left++;
+                } else {
+                    right--;
                 }
             }
         }
