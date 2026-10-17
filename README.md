@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhruv-bamal/dsa-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
